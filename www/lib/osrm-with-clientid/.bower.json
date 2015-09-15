@@ -1,0 +1,12 @@
+{
+  "name": "osrm-with-clientid",
+  "_cacheHeaders": {
+    "ETag": "\"e61ecf268bb9d48d0b8801084a3843674b4bc8a8\"",
+    "Content-Type": "application/zip",
+    "Content-Disposition": "attachment; filename=osrm-with-clientid-master.zip"
+  },
+  "_release": "e-tag:e61ecf268",
+  "_source": "https://github.com/david3080/osrm-with-clientid/archive/master.zip",
+  "_target": "*",
+  "_originalSource": "https://github.com/david3080/osrm-with-clientid/archive/master.zip"
+}
